@@ -1,4 +1,4 @@
-# Проектная работа 6 (HW-03)
+# B6-skillfactory-ansible-main
 
 1. Создать 3 ВМ в Я.Облаке (минимальная конфигурация: 2vCPU, 2GB RAM, 20 GB HDD): vm1 и vm2 (Ubuntu 20.04), vm3 (Centos 8).
 2. Установить на vm1 Ansible.
